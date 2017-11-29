@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MY NAME</title>
-    <link>https://sophonx.github.io/myblog/tags/</link>
+    <link>https://sophonx.github.io/aiblog.github.io/tags/</link>
     <description>Recent content in Tags on MY NAME</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://sophonx.github.io/myblog/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sophonx.github.io/aiblog.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

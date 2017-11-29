@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sophonx.github.io/myblog/post/articles/</loc>
+    <loc>https://sophonx.github.io/aiblog.github.io/post/articles/</loc>
   </url>
   
   <url>
-    <loc>https://sophonx.github.io/myblog/</loc>
+    <loc>https://sophonx.github.io/aiblog.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sophonx.github.io/myblog/post/</loc>
+    <loc>https://sophonx.github.io/aiblog.github.io/post/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sophonx.github.io/myblog/tags/</loc>
+    <loc>https://sophonx.github.io/aiblog.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sophonx.github.io/myblog/tutorials/</loc>
+    <loc>https://sophonx.github.io/aiblog.github.io/tutorials/</loc>
     <priority>0</priority>
   </url>
   
